@@ -14,7 +14,7 @@ jobs:
         MARP_ARGS: "README.md -o index.html -h # Don't Run Yet! Not Ready"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-        PUBLISH_TO_BRANCH: main
+        PUBLISH_TO_BRANCH: published
         BASE_URL: https://blog.stanleysolutionsnw.com
       uses: ralexander-phi/marp-action@master
       
