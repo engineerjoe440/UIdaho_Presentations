@@ -9,9 +9,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Build & Deploy to Main Branch
+    - name: Build & Deploy HTML to Github Pages Branch
       env: 
-        MARP_ARGS: "--input-dir ./source --output ./output" # Optionally Use Custom Engine for 61131 Formatting `--engine ./marpengine.js `
+        MARP_ARGS: "--input-dir ./source --theme ./source/uitheme.css --output ./output" # Optionally Use Custom Engine for 61131 Formatting `--engine ./marpengine.js `
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        PUBLISH_TO_BRANCH: gh-pages
+        BASE_URL: https://blog.stanleysolutionsnw.com
+      uses: ralexander-phi/marp-action@master
+      
+    - name: Build & Deploy PPTX to Published Branch
+      env: 
+        MARP_ARGS: "--input-dir ./source --theme ./source/uitheme.css --pptx --output ./output" # Optionally Use Custom Engine for 61131 Formatting `--engine ./marpengine.js `
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PUBLISH_TO_BRANCH: published
