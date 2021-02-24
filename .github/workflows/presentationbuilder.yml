@@ -11,7 +11,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build & Deploy to Main Branch
       env: 
-        MARP_ARGS: "--engine ./marpengine.js --input-dir ./source --output ./output"
+        MARP_ARGS: "--input-dir ./source --output ./output" # Optionally Use Custom Engine for 61131 Formatting `--engine ./marpengine.js `
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         PUBLISH_TO_BRANCH: published
