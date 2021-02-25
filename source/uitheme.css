@@ -94,18 +94,20 @@ svg[data-marp-fitting=svg] {
 
 h1,
 h2,
-h3,
+h3 {
+  color: black;
+  text-transform: uppercase;
+  background-image: url('https://github.com/engineerjoe440/UIdaho_Presentations/raw/main/static/IdahoBookmark.jpg');
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 1em;
+  padding-top: 1em;
+}
 h4,
 h5,
 h6 {
-  margin: 0.5em 0 0 0;
   color: black;
   text-transform: uppercase;
-  background-image: url('https://raw.githubusercontent.com/engineerjoe440/UIdaho_Presentations/main/static/IdahoBookmark.png');
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: calc(225px + 5em);
-  padding-top: 5em;
 }
 h1 strong,
 h2 strong,
@@ -232,7 +234,8 @@ section {
   height: 1080px;
   line-height: 1.35;
   letter-spacing: 1.25px;
-  padding: 70px;
+  padding-right: 70px;
+  padding-left: 70px;
   width: 1920px;
   color: #202228;
   background-color: #fdfcff;
