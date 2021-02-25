@@ -99,7 +99,13 @@ h4,
 h5,
 h6 {
   margin: 0.5em 0 0 0;
-  color: var(--selblue);
+  color: black;
+  text-transform: uppercase;
+  background-image: url('https://raw.githubusercontent.com/engineerjoe440/UIdaho_Presentations/main/static/IdahoBookmark.png');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: calc(225px + 5em);
+  padding-top: 5em;
 }
 h1 strong,
 h2 strong,
@@ -575,29 +581,32 @@ section.lead:before {
   position: fixed;
   top: calc(50% - 1000px);
   left: 0;
-  width: 500px;
-  height:2000px;
+  width: 45%;
+  height: 300%;
   background: #000;
-  transform: skew(-15deg);
+  transform: skew(-10deg);
   transform-origin:top;
 }
 section.lead h1,
 section.lead h2,
 section.lead h3 {
-  text-align: center;
-  color: var(--selyellow);
+  z-index: 500;
+  color: var(--vandalgold);
   text-transform: uppercase;
   background-image: url('https://raw.githubusercontent.com/engineerjoe440/UIdaho_ControlsClass/master/source/_static/UI_ENG_stacked_G_W.png');
-  background-position: center;
+  background-position: top left;
   background-repeat: no-repeat;
   background-size: calc(225px + 5em);
   padding-top: 5em;
+  text-align: right;
+  vertical-align: text-top;
 }
 section.lead h4,
 section.lead h5,
 section.lead h6 {
-  text-align: center;
-  color: #ffffff;
+  text-align: right;
+  color: black;
+  text-transform: uppercase;
 }
 section.lead h1 svg[data-marp-fitting=svg],
 section.lead h2 svg[data-marp-fitting=svg],
