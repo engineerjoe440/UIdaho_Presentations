@@ -35,7 +35,7 @@
 
 ---
 
-![bg](https://en.wikipedia.org/wiki/SCADA#/media/File:Functional_levels_of_a_Distributed_Control_System.svg)
+![bg](https://upload.wikimedia.org/wikipedia/commons/1/10/Functional_levels_of_a_Distributed_Control_System.svg)
 
 ---
 
