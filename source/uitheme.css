@@ -150,13 +150,13 @@ blockquote {
 
 ul > li,
 ol > li {
-  font-size: 0.5em;
-  margin: 0.15em 0 0 0;
+  font-size: 0.8em;
+  margin: 0.1em 0 0 0;
 }
 ul > li > p,
 ol > li > p {
-  font-size: 0.5em;
-  margin: 0.3em 0 0 0;
+  font-size: 0.8em;
+  margin: 0.15em 0 0 0;
 }
 
 code {
