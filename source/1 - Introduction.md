@@ -185,7 +185,7 @@
 
 ---
 
-![bg left 100%](https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/brand-resource-center/visual-style-guide/logo-marks/ui-stacked-gold-black.svg?la=en&hash=0BE11BAD4978218EA8D394887FD8C0BB21AB4903)
+![bg left 50%](https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/brand-resource-center/visual-style-guide/logo-marks/ui-stacked-gold-black.svg?la=en&hash=0BE11BAD4978218EA8D394887FD8C0BB21AB4903)
 
 ## Software Applications
 
