@@ -4,6 +4,15 @@
 
 ---
 
+<!-- _class: future -->
+
+## General Info
+
+##### Class Resources
+[Web Page](https://engineerjoe440.github.io/UIdaho_WebResources/)
+
+---
+
 ## Industrial Controls
 *What are they? Where are they found?*
 
@@ -41,6 +50,8 @@
 
 ## SEL-351S Protection System
 
+![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/351S.png?n=63677059601000&bp=lg)
+
 #### Relevant Software
 
 * AcSELerator Quickset (SEL-5030)
@@ -65,6 +76,8 @@
 ---
 
 ## SEL-849 Motor Management Relay
+
+![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/849.png?n=63604639295000&bp=lg)
 
 #### Relevant Software
 
@@ -91,6 +104,8 @@
 ---
 
 ## SEL Real-Time Automation Controller Family
+
+![bg right 50%](https://selinc.com/uploadedImages/Web/Videos/Playlists/Playlist_RTAC_1280x720.png?n=63584786926000)
 
 #### Relevant Software
 
@@ -119,6 +134,8 @@
 
 ## PRODUCTIVITY2000 Programmable Logic Controller
 
+![bg right 100%](https://www.automationdirect.com/images/overviews/p2000base_400.jpg)
+
 #### Relevant Software
 
 * PRODUCTIVITY Suite
@@ -140,6 +157,8 @@
 ---
 
 ## GS1 Variable Frequency Drive
+
+![bg right](https://cdn.automationdirect.com/images/products/large/l_gs110p2.jpg)
 
 #### Relevant Software
 
@@ -163,6 +182,8 @@
 ---
 
 ## C-More Micro Display
+
+![bg right](https://cdn.automationdirect.com/images/products/large/l_ea3s3mlrn.jpg)
 
 #### Relevant Software
 
@@ -196,3 +217,138 @@
 * AcSELerator Diagram Builder
 * C-More Micro Software
 * Google Chrome *or* Mozilla Firefox
+
+---
+
+## AcSELerator Quickset
+*SEL-5030*
+
+![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/5030.png?n=63578643095000&bp=lg)
+
+#### Functionality
+
+* Relay Settings Configuration
+* Terminal Emulator
+  * Settings Configuration
+  * Device Diagnostics and Troubleshooting
+* Fleet Management (Device Manager)
+* Firmware Upgrade Utility
+
+#### Connection Capabilities
+
+* Serial
+* Network (Ethernet)
+* Modem
+
+---
+
+## TeraTerm Terminal Emulator
+
+![bg right 50%](https://cdn.sparkfun.com/assets/c/2/f/e/9/521e9419757b7fab768b456a.png)
+
+#### Functionality
+
+* Terminal Emulation
+  * Settings Configuration
+  * Device Diagnostics and Troubleshooting
+
+#### Connection Capabilities
+
+* Serial
+* Network (Ethernet)
+
+---
+
+## AcSELerator RTAC
+*SEL-5033*
+
+![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/5033.png?n=63578903760000&bp=lg)
+
+#### Functionality
+
+* RTAC Project Configuration
+* Live Data Viewer
+* Logic Development Platform
+* Programming Debugger (Breakpoints)
+* Firmware Upgrade Engine
+
+#### Connection Capabilities
+
+* Network (Ethernet)
+
+---
+
+## Productivity Suite
+
+![bg right 50%](https://www.automationdirect.com/microsites/productivity/software/images/PS_ID1.png)
+
+#### Functionality
+
+* PLC Project Configuration
+* Live Data Viewer
+* Logic Development Platform
+* Firmware Upgrade Engine
+
+#### Connection Capabilities
+
+* Network (Ethernet)
+
+---
+
+## AcSELerator Diagram Builder
+*SEL-5035*
+
+![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/5035(3).png?n=63626416860000&bp=lg)
+
+#### Functionality
+
+* RTAC HMI Development
+* Control Development
+* Data Trending Development
+* Runtime Binary Upgrade Engine
+
+#### Connection Capabilities
+
+* Network (Ethernet)
+
+---
+
+## C-More Micro Programming Software
+
+![bg right 50%](https://cdn.automationdirect.com/images/products/large/l_ea1t4cl.jpg)
+
+#### Functionality
+
+* C-More HMI Development
+* Control Development
+* Data Trending Development
+* Runtime Binary Upgrade Engine
+
+#### Connection Capabilities
+
+* Serial
+
+---
+
+## Web-Based Configuration
+
+![bg right 50%](https://github.com/engineerjoe440/UIdaho_Presentations/blob/main/static/3554_web.png?raw=true)
+
+#### Functionality
+
+* Web HMI Viewing
+* Network/Settings Control
+* Live Data View
+
+#### Connection Capabilities
+
+* Network
+
+---
+
+# Basic Logic
+
+<!-- _class: lead -->
+
+---
+
