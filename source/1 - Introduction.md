@@ -50,7 +50,7 @@
 
 ## SEL-351S Protection System
 
-![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/351S.png?n=63677059601000&bp=lg)
+![bg right 100%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/351S.png?n=63677059601000&bp=lg)
 
 #### Relevant Software
 
@@ -77,7 +77,7 @@
 
 ## SEL-849 Motor Management Relay
 
-![bg right 50%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/849.png?n=63604639295000&bp=lg)
+![bg right 100%](https://prodcdn.selinc.com/uploadedImages/Web/Products/Images/849.png?n=63604639295000&bp=lg)
 
 #### Relevant Software
 
@@ -105,7 +105,7 @@
 
 ## SEL Real-Time Automation Controller Family
 
-![bg right 50%](https://selinc.com/uploadedImages/Web/Videos/Playlists/Playlist_RTAC_1280x720.png?n=63584786926000)
+![bg right 100%](https://selinc.com/uploadedImages/Web/Videos/Playlists/Playlist_RTAC_1280x720.png?n=63584786926000)
 
 #### Relevant Software
 
