@@ -27,7 +27,8 @@
 
 ---
 
-## How Do We Interact?
+##### Question:
+*How Do We Interact?*
 
 | Front Panel/Human Machine Interface       | Serial (EIA232/EIA485) Communications        | Ethernet (RJ45) Network Communications       |
 |-------------------------------------------|----------------------------------------------|----------------------------------------------|
@@ -346,9 +347,44 @@
 
 ---
 
-# Basic Logic
+# Inputs and Outputs
 
 <!-- _class: lead -->
 
 ---
+
+# Forms of I/O
+
+### Digital
+  * Inputs (normally opto-couple electrically isolated)
+  * Outputs (typically relay contacts)
+  * Fast-Acting Outputs (using solid-state relays)
+
+### Analog
+  * Voltage Inputs (may be specifically for AC/DC, or both)
+  * Current Inputs
+  * Thermocouple Inputs
+  * RTD Inputs
+
+---
+
+# Input Whetting
+
+##### Question:
+*For digital or analog inputs, where does the energy come from?*
+
+---
+
+# Analog Deadbands
+
+##### Question:
+*For analog inputs being communicated to different parts of a system, when should the analog*
+*values be updated and sent from their source to each interested listener?*
+
+---
+
+# Deadband Example:
+
+![Deadband](https://github.com/engineerjoe440/UIdaho_Presentations/raw/main/Presentations/Scripts/Figure%20Generation/images/deadbandexample.gif)
+
 
